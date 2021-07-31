@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nipunverma39@gmail.com**
 
-- ⚡ Fun fact **A pawn and a bishop can take a rook**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
