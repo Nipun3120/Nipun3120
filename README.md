@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **A pawn and a bishop can take a rook**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nipun3120" height="30" width="40" /></a>
@@ -19,6 +20,7 @@
 <a href="https://instagram.com/nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipun3120" height="30" width="40" /></a>
 </p>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -34,11 +36,12 @@
    <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 </p>
 
+<hr>
 <h3 align="left">Support:</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun3120&show_icons=true&locale=en&layout=compact" alt="nipun3120" /></p>
-<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun3120&show_icons=true&locale=en" alt="nipun3120" /></p>
 <br><br>
 <p><a href="https://www.buymeacoffee.com/Nipun3120"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nipun3120" /></a></p>
