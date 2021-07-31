@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Server side programming**
 
-- 🌱 I’m currently learning **Django REST Framework**
+- 🌱 I’m currently learning **Django REST Frameworks**
 
 - 👯 I’m looking to collaborate on **React, Django**
 
