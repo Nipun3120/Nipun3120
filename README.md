@@ -43,6 +43,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun3120&show_icons=true&locale=en" alt="nipun3120" /></p>
 <br><br>
-<h5>Blog Site: <a href="https://nipun3120.hashnode.dev/">here</a></h5>
+<h3>Blog Site: <a href="https://nipun3120.hashnode.dev/">here</a></h3>
 <br><br>
 <p><a href="https://www.buymeacoffee.com/Nipun3120"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nipun3120" /></a></p>
