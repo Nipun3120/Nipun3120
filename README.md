@@ -25,7 +25,7 @@
 <a href="https://codepen.io/nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nipun3120" height="30" width="40" /></a>
 <a href="https://twitter.com/nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nipun3120" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nipun-verma-3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun-verma-3120" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nipun3120" target="blank"><img align="center" src="https://drive.google.com/file/d/1LIS5KZHiQgurMDPkz7E-eZ4vgB32FFdQ/view?usp=sharing" alt="@nipun3120" height="30" width="40" /></a>
+<a href="https://hashnode.com/@nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nipun3120" height="30" width="40" /></a>
 <a href="/https://nipun3120.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nipun3120.hashnode.dev" height="30" width="40" /></a>
 </p>
 
