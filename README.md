@@ -19,7 +19,7 @@
 <h3>Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun3120&show_icons=true&locale=en&layout=compact" alt="nipun3120" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nipun3120&show_icons=true&locale=en" alt="nipun3120" /></p>
-
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nipun3120" height="30" width="40" /></a>
