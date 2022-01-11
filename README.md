@@ -31,5 +31,5 @@
 
 <h3 align="left">Recent Blogs: </h3>
 <ol>
-  <li><a target="blank" href="https://nipun3120.hashnode.dev/getting-started-with-expressjs">Getting Started with ExpressJs</a></li>
+  <li><a target="_blank" href="https://nipun3120.hashnode.dev/getting-started-with-expressjs">Getting Started with ExpressJs</a></li>
 </ol>
