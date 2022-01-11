@@ -28,3 +28,8 @@
 <a href="https://hashnode.com/@nipun3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nipun3120" height="30" width="40" /></a>
 <a href="/https://nipun3120.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nipun3120.hashnode.dev" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Recent Blogs: </h3>
+<ol>
+  <li><a href="https://nipun3120.hashnode.dev/getting-started-with-expressjs">Getting Started with ExpressJs</a></li>
+</ol>
