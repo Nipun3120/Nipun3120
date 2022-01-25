@@ -1,4 +1,9 @@
-<body style="background-color: white">
+<head><style>
+  .container {
+    background-color: white;
+  }  
+</style></div>
+<div class="container">
 <h1 align="center">Hi 👋, I'm Nipun Verma</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nipun3120&label=Profile%20views&color=0e75b6&style=flat" alt="nipun3120" /> </p>
 
@@ -34,4 +39,4 @@
 <ol>
   <li><a target="_blank" href="https://nipun3120.hashnode.dev/getting-started-with-expressjs">Getting Started with ExpressJs </a></li>
 </ol>
-</body>
+</div>
