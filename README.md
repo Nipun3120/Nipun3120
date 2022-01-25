@@ -1,9 +1,3 @@
-<head><style>
-  .container {
-    background-color: white;
-  }  
-</style>
-</head>
 <div class="container">
 <h1 align="center">Hi 👋, I'm Nipun Verma</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nipun3120&label=Profile%20views&color=0e75b6&style=flat" alt="nipun3120" /> </p>
